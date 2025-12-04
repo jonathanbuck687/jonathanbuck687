@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hello 🐢🐢🐢🐢🐢🐢🐢🐢
+![BeeEyeBrowsGIF](https://github.com/user-attachments/assets/954d8bb6-4fcb-4240-8974-be1a7d3668f8)
 
 <!--
 **jonathanbuck687/jonathanbuck687** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
