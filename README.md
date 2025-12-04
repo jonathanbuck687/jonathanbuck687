@@ -10,9 +10,7 @@ Fun fact: I am very invested in French culture.
 
 public static programmingLanguages(int jonathanbuck687){
   
-  
   System.out.println("Some Python and Java");
-
 
 }
 <!--
